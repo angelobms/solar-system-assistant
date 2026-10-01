@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Chroma local DB
+chroma_db/
+
+# IDEs
+.idea/
+.vscode/
+
+# OS
+.DS_Store
